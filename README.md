@@ -20,5 +20,5 @@ var siteKey = "<YOUR_SITE_PUBLIC_KEY>";
 ```
 
 # Demo
-[Live demo](http://miner.stressoff.ga/)
+[Live demo](http://miner.stressoff.ga/)  
 ![Demo](https://github.com/lesongvi/NHMTHUminer/blob/master/nhmthuminer.png?raw=true)
